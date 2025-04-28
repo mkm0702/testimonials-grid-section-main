@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution](https://github.com/mkm0702/testimonials-grid-section-main)
+- Live Site URL: [netlify](https://testimonials-grid-section-mains.netlify.app/)
 
 ### Built with
 
